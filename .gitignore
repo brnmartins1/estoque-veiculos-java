@@ -1,0 +1,11 @@
+# Ignorar arquivos compilados do Java
+out/
+*.class
+
+# Ignorar configurações do IntelliJ
+.idea/
+*.iml
+
+# Ignorar arquivos temporários do sistema
+banco_dados.txt
+relatorio_veiculos.txt
